@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
     int a,b,c;
+    //sum of two number
     printf("enter value of a:");
     scanf("%d",&a);
     printf("enter value of b:");
